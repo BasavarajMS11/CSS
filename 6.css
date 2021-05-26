@@ -1,0 +1,8 @@
+label,input,form{
+	text-align: center;
+}
+#fn,#ln,#pn,#ei{
+	height: 20px;
+	width: 20%;
+}
+
